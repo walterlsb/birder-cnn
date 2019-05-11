@@ -6,5 +6,5 @@ The project uses the [North American Birds dataset] (http://dl.allaboutbirds.org
 
 The simple application of the Fast.ai library to the dataset returned an 85% accuracy measure in the validation set.
 
-The birder-render application makes the model accessible from a web-browser.
+The birder-render application (https://github.com/walterlsb/birder-render) makes the model accessible from a web-browser.
 
